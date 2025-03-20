@@ -1,1 +1,1 @@
-# string-methods
+# This repository contains JavaScript string methods.
